@@ -19,6 +19,7 @@ Just be cautious of what the highest number is. In some case you may find that n
 This is one of the simplest ways to find a list of prefixes on a particular tab.
 
 ![Searching the 2003 prefix in Excel](FindTheHighestGroup.png)
+
 *Figure 1: Searching the 2003 prefix in Excel*
 
 In the figure above we see that while searching the *"2003"* prefix there are two numbers that are much greater than the leading group of numbers. Should the next number be in the 0620 group?
@@ -30,6 +31,7 @@ Another simple solution to aligning all the like number together.
 This is a great way to confirm the available number within a particular group.
 
 ![Performing a wildcard search in SL for 2003062*](FindTheHighestGroupSL.png)
+
 *Figure 2: Performing a wildcard search in Syteline*
 
 In this figure,  wildcard search is being performed on #2003062*, confirming that there is 4 numbers  available within the 20030620 group.
